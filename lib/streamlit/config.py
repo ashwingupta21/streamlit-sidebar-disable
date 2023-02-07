@@ -772,7 +772,7 @@ _create_option(
 _create_option(
     "ui.hideSidebarNav",
     description="Flag to hide the sidebar page navigation component.",
-    default_val=False,
+    default_val=True,
     type_=bool,
     visibility="hidden",
 )
